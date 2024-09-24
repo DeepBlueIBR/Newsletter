@@ -1,0 +1,11 @@
+/Users/romeoshahaj/Documents/newsletter/zero2prod/target/debug/deps/libipnet-c558f9cee317e227.rmeta: /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/lib.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipext.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipnet.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/parser.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/mask.rs
+
+/Users/romeoshahaj/Documents/newsletter/zero2prod/target/debug/deps/libipnet-c558f9cee317e227.rlib: /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/lib.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipext.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipnet.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/parser.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/mask.rs
+
+/Users/romeoshahaj/Documents/newsletter/zero2prod/target/debug/deps/ipnet-c558f9cee317e227.d: /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/lib.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipext.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipnet.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/parser.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/mask.rs
+
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/lib.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipext.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/ipnet.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/parser.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.10.0/src/mask.rs:
