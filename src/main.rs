@@ -1,14 +1,23 @@
-use zero2prod::run;
 use std::net::TcpListener;
+use zero2prod::run;
+use zero2prod::configuration::get_configuration;
+use sqlx::PgPool;
 
 
 #[tokio::main]
 async fn main() -> std::io::Result<()>
 {
+    // Panic if we can't read configuration.
+    let configuration = get_configuration().expect("Failed to read configuration.");
+    let connection_pool = PgPool::connect(&configuration.database.connection_string())
+        .await
+        .expect("Failed to connect to Postgres.");
+    // Now the hard-coded '8000' it's removed, and now it originates from our settings.
+    let address = format!("127.0.0.1:{}", configuration.application_port);
+
     // Bubble up the io::Error if we failed to bind the address
     // Otherwise call .await on our Server
-    let listener = TcpListener::bind("127.0.0.1:8000")?;
-
-    run(listener)?.await
+    let listener = TcpListener::bind(address)?;
+    run(listener, connection_pool)?.await
 
 }
