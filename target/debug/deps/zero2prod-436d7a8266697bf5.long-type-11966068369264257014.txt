@@ -1,0 +1,1 @@
+impl std::future::Future<Output = Result<<Postgres as sqlx::Database>::QueryResult, sqlx::Error>>

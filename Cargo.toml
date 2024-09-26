@@ -20,6 +20,11 @@ config = "0.11"
 sqlx = { version = "0.6", features = ["runtime-tokio-native-tls", "postgres", "macros", "uuid", "time"] }
 uuid = { version = "1", features = ["v4"] }
 chrono = { version = "0.4.15", features = ["serde"] }  # Add chrono here with optional features if necessary
+tracing = { version = "0.1", features = ["log"]}
+tracing-subscriber = { version = "0.3", features = ["registry", "env-filter"] }
+tracing-bunyan-formatter = "0.3"
+tracing-log = "0.1"
+once_cell = "1"
 
 
 # [dependecies.sqlx]
