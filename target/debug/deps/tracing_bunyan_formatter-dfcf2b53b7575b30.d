@@ -1,0 +1,8 @@
+/Users/romeoshahaj/Documents/newsletter/zero2prod/target/debug/deps/libtracing_bunyan_formatter-dfcf2b53b7575b30.rmeta: /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/lib.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/formatting_layer.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/storage_layer.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/../README.md
+
+/Users/romeoshahaj/Documents/newsletter/zero2prod/target/debug/deps/tracing_bunyan_formatter-dfcf2b53b7575b30.d: /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/lib.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/formatting_layer.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/storage_layer.rs /Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/../README.md
+
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/lib.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/formatting_layer.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/storage_layer.rs:
+/Users/romeoshahaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-bunyan-formatter-0.3.9/src/../README.md:
