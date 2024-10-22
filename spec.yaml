@@ -1,0 +1,25 @@
+name: zero2prod
+
+region: fra
+services:
+  - name: zero2prod
+    dockerfile_path: Dockerfile
+    source_dir: .
+    github:
+      # Depending on when you created the repository
+      branch: Chapter-05
+      # Deploy a new version on every commit to 'main!'
+      deploy_on_push: true
+      repo: DeepBlueIBR/Newsletter
+    health_check:
+      http_path: /health_check
+      # Port that the application will be listening on for incoming requests.
+      # Should match the port in configuration/production.yaml file!
+    http_port: 8000
+    # For profuciton workloads we'd go for at least two!
+    # But for now one because of billing.
+    instance_count: 1
+    instance_size_slug: basic-xxs
+    # All incoming request should be routed to our app
+    routes:
+      - path: /
